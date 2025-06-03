@@ -49,13 +49,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 ## Ekran Görüntüleri
 
-(Buraya uygulamanın çalışan halinden bir veya birkaç ekran görüntüsü ekleyebilirsiniz. GitHub'a resim yükleyip Markdown içinde gösterebilirsin.)
 
-Örnek:
-`![Uygulama Arayüzü](link_veya_dosya_yolu_ekran_goruntusune.png)`
-
-*Eğer ekran görüntüsünü projenin içine (örneğin `screenshots` diye bir klasöre) eklersen, şu şekilde link verebilirsin:*
-`![Uygulama Arayüzü](./screenshots/uygulama_arayuzu.png)`
+./screenshots/Projearayuzu.png
 
 ## Gelecekte Eklenebilecekler (İsteğe Bağlı)
 
