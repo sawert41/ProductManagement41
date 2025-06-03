@@ -47,10 +47,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
     * Gerekli NuGet paketlerinin (özellikle `Microsoft.Data.SqlClient`) geri yüklendiğinden/yüklü olduğundan emin olun. (Solution Explorer'da projeye sağ tıklayıp "Manage NuGet Packages..." ile kontrol edebilirsiniz.)
     * Projeyi derleyin (Build) ve ardından çalıştırın (Start).
 
-## Ekran Görüntüleri
 
-
-./screenshots/Proje sc.jpeg
 
 ## Gelecekte Eklenebilecekler (İsteğe Bağlı)
 
