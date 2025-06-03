@@ -50,7 +50,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 ## Ekran Görüntüleri
 
 
-./screenshots/Projearayuzu.png
+./screenshots/Proje sc.jpeg
 
 ## Gelecekte Eklenebilecekler (İsteğe Bağlı)
 
